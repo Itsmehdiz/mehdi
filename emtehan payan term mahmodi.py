@@ -86,7 +86,6 @@ class Customer:
             total_price += food.price
         print(f"Total: ${total_price}")
 
-# Sample usage
 staff = RestaurantStaff("mehdi")
 staff.define_food()
 
